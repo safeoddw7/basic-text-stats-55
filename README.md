@@ -1,2 +1,9 @@
-# basic-text-stats-55
-A simple text stats project
+# Text Stats
+
+A simple text stats project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
